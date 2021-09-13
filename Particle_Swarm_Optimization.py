@@ -1,4 +1,4 @@
-#This is simple example program for solve problem by Particle Swarm Optimization(PSO) 
+#This is a simple example program for solve problems by Particle Swarm Optimization(PSO) 
 #Author: Mr.Chanon Sattrupinat
 #Date  : 2021/9/12
 import random as rd
