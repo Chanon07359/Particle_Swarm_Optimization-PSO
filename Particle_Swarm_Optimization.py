@@ -27,7 +27,7 @@ index_G_best=0;
 
 # SET OBJECTIVE FUNCTION
 def Objective_function(x1,x2):
-  obj_point=((((x1)**2)+x2-11)**2)+((x1+(x2**2)-7)**2) #Himmelblau's function(x1**2)+(x2**2)
+  obj_point=((((x1)**2)+x2-11)**2)+((x1+(x2**2)-7)**2) #Himmelblau's function
   return obj_point
 
 
