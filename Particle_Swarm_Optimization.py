@@ -84,7 +84,8 @@ def Velocity_particles():
 def Update_position():
   global positions,velocity
   positions=np.sum([positions,velocity], axis=0)
-  
+
+#MAIN  
 if __name__=='__main__':
     Gen_init_solution(50,50)
     for i in range(iteration):
